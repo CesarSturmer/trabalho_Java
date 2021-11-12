@@ -1,6 +1,6 @@
 <img alt="Pagina incial do pokedex" title="Pagina incial do pokedex" src="https://imgur.com/ZtHmz0L.png" />
 
-# Atividade Micro-serviços - Vale Nota
+# Atividade Micro-serviços
 ## Objetivo
 Criar um endpoint de consulta para que seja possível visualizar os dados
 armazenados no banco de dados
